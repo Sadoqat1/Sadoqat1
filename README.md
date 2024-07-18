@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sadoqat1
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning JavaScript and Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
